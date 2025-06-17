@@ -2,7 +2,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import time
 
-N = 4  # Profundidade/complexidade
+N = 1  # Profundidade/complexidade
 
 # --- Koch Snowflake ---
 def koch_snowflake(order, scale=10):
