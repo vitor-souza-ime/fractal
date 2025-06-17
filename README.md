@@ -1,9 +1,9 @@
 Fractal Visualization 🌌
  
-A Python project to generate and visualize stunning fractals using NumPy and Matplotlib. Explore the beauty of mathematics through the Koch Snowflake, Mandelbrot Set, Fractal Binary Tree, and Dragon Curve.
+A Python project to generate and visualize stunning fractals using NumPy and Matplotlib. Dive into the beauty of mathematics with the Koch Snowflake, Mandelbrot Set, Fractal Binary Tree, and Dragon Curve.
 
 📜 Overview
-This project creates visualizations of four iconic fractals, each showcasing the intricate patterns of recursive mathematics. The script measures computation times and displays the fractals with a clean, minimalistic style. Perfect for learning about fractals, Python, or simply enjoying mathematical art!
+This project creates visualizations of four iconic fractals, showcasing the intricate patterns of recursive mathematics. The script, main.py, computes each fractal, measures their computation times, and displays them with a clean, minimalistic style. Ideal for exploring fractals, learning Python, or enjoying mathematical art!
 Fractals Included
 
 Koch Snowflake: A recursive curve forming a snowflake-like shape.
@@ -27,40 +27,23 @@ Clone the repository:git clone https://github.com/your-username/fractal-visualiz
 Navigate to the project directory:cd fractal-visualization
 
 
-Run the script:python fractals.py
+Run the script:python main.py
 
 
 
 🎨 Visualizations
 Below are example outputs for N=4 (fractal complexity/depth):
 
-
-
 Koch Snowflake
 Mandelbrot Set
-
-
-
-
-
-
-
-
-
 
 Fractal Tree
 Dragon Curve
 
-
-
-
-
-
-
 Note: Replace placeholder images with actual fractal outputs by saving plots (e.g., plt.savefig('koch_snowflake.png')) and uploading them to your repository.
 ⚙️ Customization
 
-Fractal Complexity: Modify the N variable in fractals.py to adjust the depth or resolution.
+Fractal Complexity: Modify the N variable in main.py to adjust the depth or resolution.
 Mandelbrot Settings: Increase mandelbrot_res or mandelbrot_iter for finer details (scales with N).
 Plot Styles: Edit Matplotlib parameters (e.g., cmap for Mandelbrot, line colors) for custom aesthetics.
 
