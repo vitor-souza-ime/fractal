@@ -1,4 +1,4 @@
-Fractal Visualization 🌌
+**Fractal Visualization 🌌**
  
 A Python project to generate and visualize stunning fractals using NumPy and Matplotlib. Dive into the beauty of mathematics with the Koch Snowflake, Mandelbrot Set, Fractal Binary Tree, and Dragon Curve.
 
